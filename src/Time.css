@@ -1,0 +1,35 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  margin-top: -21%;
+  margin-left: -6%;
+}
+.s{
+
+    display: flex;
+    justify-content: space-between;
+    width: 13%;
+    margin-left: 43%;
+    font-size: 21px;
+
+}
+  .hours
+{
+  display: flex;
+  flex-direction: column;
+  margin-right: 15px;
+  font-size: 3em;
+}
+  
+  span{
+    padding-bottom: 8
+    px
+  }
+  .sec1{
+    font-weight: bold;
+    font-size: 35px
+  }
+  
+  .sec2{
+    color:grey
+  }
